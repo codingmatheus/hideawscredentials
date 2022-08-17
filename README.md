@@ -1,7 +1,14 @@
 # Hide AWS Credentials
 Code to mask the credentials from the AWS Console
 
-## Use TamperMonkey to apply this script
+# Requirements:
+## Install Tamper Monkey on your browser. This is an extension available for all major browsers and you should be able to easily find it on the browser's add-ons/extension stores.
+## You may need to turn off content security policies on your browser otherwise the script won't work. 
+### Firefox:
+  1. on the URl bar type about:config
+  2. search for security.csp
+  3. change the value of security.csp to False
+  4. reload the AWS Console page and you should see the script working if it wasn't before (no need to close and reopen the browser)
 
 ## Steps
 
