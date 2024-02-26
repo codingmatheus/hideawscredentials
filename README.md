@@ -26,5 +26,5 @@ Copy/paste the contents of hide_aws_credentials.js into the TamperMonkey script 
 You should now see both the main account info as well as the account details when expanding the menu replaced the word DEMO. 
 [Screenshot 2](assets/screenshots/hideawscredentials_screenshot2.PNG)
 
-Personally, I like to have my name and social handle instead of just saying DEMO, so I replace it with Matheus | @guimathed. Feel free to experiment :)
+Personally, I like to have my name and social handle instead of just saying DEMO, so I replace it with Matheus | @codingmatheus. Feel free to experiment :)
 
